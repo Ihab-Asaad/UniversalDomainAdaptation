@@ -1,4 +1,4 @@
-# UniversalDomainAdaptation
+# Universal Domain Adaptation
 This notebook compares the accuracy of pretrained Universal Adaptation Network and the accuracy from the network's latent feature space, and shows a problem in implementing universal domain adaptation paper.
 
 - Framework: PyTorch
